@@ -6,3 +6,15 @@ git revert 9749659711f02387dfe680acc3c614650ddd2f87
 
 git mv - old name - new name
 file mv oldName.txt newName.txt
+
+git checkout branchName - move to branch
+git checkout master
+
+git checkout -b branchName - create and move branch
+git checkout -b otherBranch
+
+git checkout hash - change to determinate commit -> HEAD
+git checkout 9749659711f02387dfe680acc3c614650ddd2f87
+
+git checkout branchName - Change to latest commit when your HEAD is in determinate timeline
+git checkout master
