@@ -1,0 +1,8 @@
+gir reset/checkout hash - discard changes in working directory
+git reset file.txt
+
+git revert hash revert commit defined
+git revert 9749659711f02387dfe680acc3c614650ddd2f87
+
+git mv - old name - new name
+file mv oldName.txt newName.txt
