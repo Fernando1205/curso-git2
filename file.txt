@@ -1,6 +1,7 @@
 file one edited
 file one updated
 file one created
-file one deleted
-file one created again
+
+file one deleted from second branch
+file one created again from second branch
 file one updated
