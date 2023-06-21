@@ -21,3 +21,9 @@ git checkout master
 
 git remote - Check only repositories exist
 git remove -v Check repositories and info like link
+
+git push (remoteName) (branchName) - Push to determinate repository
+git push origin main
+git push origin master
+git push upstream main
+gut push upstream master
