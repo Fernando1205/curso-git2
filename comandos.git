@@ -33,3 +33,9 @@ ssh-keygen -t ed25519 -C "your_email@example.com" - Genereate a key por ssh
 ls ~/.ssh - check if have some key ssh
 cd ~ - go to home
 code .ssh/id_rsa.pub - open in code de key por ssh
+
+git fetch nameRemote nameBranch - pull de changes but not mix wiht working directory
+git fetch origin main
+git fetch origin master
+git fetch upstream main
+git fetch upstream master
