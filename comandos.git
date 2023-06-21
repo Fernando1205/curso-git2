@@ -18,3 +18,6 @@ git checkout 9749659711f02387dfe680acc3c614650ddd2f87
 
 git checkout branchName - Change to latest commit when your HEAD is in determinate timeline
 git checkout master
+
+git remote - Check only repositories exist
+git remove -v Check repositories and info like link
