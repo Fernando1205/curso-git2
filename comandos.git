@@ -39,3 +39,12 @@ git fetch origin main
 git fetch origin master
 git fetch upstream main
 git fetch upstream master
+
+git cherry-pick - check hash in specific
+gt rebase   - rebase a branch for maintain it lineal
+
+git blame - examine files and who work in the file 
+git grep world - find world in the files
+git grep -n world - fid world in files and line number
+git grep - c world
+git grep world hash - find in a specific hash
